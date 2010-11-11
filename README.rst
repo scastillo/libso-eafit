@@ -19,9 +19,9 @@ Actually its developed just for the OS course at EAFIT.
 Features
 ---------
 
-Feature 1
-  Description of the feature number one
+List system process
+  List of PID's of running processes
 
-Feature 2
-  Description of the feature number two
+Get CPU usage
+  Get a value between 0 - 1 meaning percent of busy cpu
 
