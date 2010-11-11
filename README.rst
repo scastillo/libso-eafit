@@ -77,3 +77,18 @@ On Debian systems this is the information about this package::
     top, uptime, vmstat, w, and watch.
     
     Homepage: http://procps.sf.net/
+
+Tools
+------
+
+emacs_
+  The GNU Emacs editor
+
+rst2pdf_
+
+hamster-applet_
+
+
+.. _emacs: http://www.gnu.org/software/emacs/
+.. _rst2pdf: http://code.google.com/p/rst2pdf/
+.. _hamster-applet: http://projecthamster.wordpress.com/
