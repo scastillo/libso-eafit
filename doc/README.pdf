@@ -1,0 +1,559 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 6 0 R
+ /F5 7 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Times-Roman
+<< /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:castillobuiles@gmail.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 272.3923
+ 687.5936
+ 384.7823
+ 699.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F4': class PDFType1Font 
+6 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F5': class PDFType1Font 
+7 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Annots [ 5 0 R ]
+ /Contents 17 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 16 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Contents 18 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 16 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R10': class PDFCatalog 
+10 0 obj
+% Document Root
+<< /Outlines 12 0 R
+ /PageLabels 19 0 R
+ /PageMode /UseNone
+ /Pages 16 0 R
+ /Type /Catalog >>
+endobj
+% 'R11': class PDFInfo 
+11 0 obj
+<< /Author ()
+ /CreationDate (D:20101111002604+05'00')
+ /Keywords ()
+ /Producer (ReportLab http://www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Libso eafit) >>
+endobj
+% 'R12': class PDFOutlines 
+12 0 obj
+<< /Count 3
+ /First 13 0 R
+ /Last 15 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+13 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 729.0236
+ 0 ]
+ /Next 14 0 R
+ /Parent 12 0 R
+ /Title (Multiplatform os-utils) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+14 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 609.0236
+ 0 ]
+ /Next 15 0 R
+ /Parent 12 0 R
+ /Prev 13 0 R
+ /Title (Features) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+15 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 510.0236
+ 0 ]
+ /Parent 12 0 R
+ /Prev 14 0 R
+ /Title (Examples) >>
+endobj
+% 'R16': class PDFPages 
+16 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 8 0 R
+ 9 0 R ]
+ /Type /Pages >>
+endobj
+% 'R17': class PDFStream 
+17 0 obj
+% page stream
+<< /Length 5348 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 9.64 Tm 184.9349 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Libso eafit) Tj T* -184.9349 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Multiplatform os-utils) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 36.93937 0 Td (Author:) Tj T* -36.93937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (Sebasti\341n Castillo Builes <) Tj 0 0 .501961 rg (castillobuiles@gmail.com) Tj 0 0 0 rg (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 33.02937 0 Td (Version:) Tj T* -33.02937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (0.1-20101110) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 18.58937 0 Td (Dedication:) Tj T* -18.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 16.82 Tm 1.068026 Tw 12 TL /F1 10 Tf 0 0 0 rg (As God begins with it, as well as everything converges on it, and ur name begins) Tj T* 0 Tw (with it too, everything in my life begins and converges to u ) Tj /F4 10 Tf (my little son) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (This is just for fun dont take it so serious. Actually its developed just for the OS course at EAFIT.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Features) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 0 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (List system process) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (List of PID's of running processes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 522.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 0 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (Get CPU usage) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Get a value between 0 - 1 meaning percent of busy cpu) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Examples) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 0 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (ps) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Report a snapshot of the current processes.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (On Debian systems, ps comes with the package ) Tj /F4 10 Tf (procps) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 365.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.71 Tm /F5 10 Tf 12 TL (scastillo@cantor:~$ which ps) Tj T* (/bin/ps) Tj T* (scastillo@cantor:~$ apt-file search /bin/ps | grep "/bin/ps$") Tj T* (procps: /bin/ps) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 327.8236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 0 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (top) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Dinamyc real-time display of Linux tasks.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 309.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (On Debian systems, ps comes in the same package:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 240.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.71 Tm /F5 10 Tf 12 TL (scastillo@cantor:~$ which top) Tj T* (/usr/bin/top) Tj T* (scastillo@cantor:~$ apt-file search /usr/bin/top | grep "/usr/bin/top$") Tj T* (procps: /usr/bin/top) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 202.6236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 0 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (procps) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (/proc file system utilities) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 184.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (On Debian systems this is the information about this package:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 79.42362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 96 re B*
+Q
+q
+BT 1 0 0 1 0 77.71 Tm 12 TL /F5 10 Tf 0 0 0 rg (scastillo@cantor:~$ aptitude show procps) Tj T* (Package: procps) Tj T* (State: installed) Tj T* (Automatically installed: no) Tj T* (Version: 1:3.2.8-9) Tj T* (Priority: important) Tj T* (Section: admin) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R18': class PDFStream 
+18 0 obj
+% page stream
+<< /Length 1405 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 636.6672 cm
+q
+q
+.625519 0 0 .625519 0 0 cm
+q
+1 0 0 1 6.6 10.55124 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 750 204 re B*
+Q
+q
+BT 1 0 0 1 0 185.71 Tm 12 TL /F5 10 Tf 0 0 0 rg (Maintainer: Craig Small ) Tj (<) Tj (csmall@debian.org) Tj (>) Tj  T* (Uncompressed Size: 791k) Tj T* (Depends: libc6 \() Tj (>) Tj (= 2.3.4\), libncurses5 \() Tj (>) Tj (= 5.7+20100313\), libncursesw5 \() Tj (>) Tj (= 5.7+20100313\), lsb-base \() Tj (>) Tj (= 3.0-10\), initscripts) Tj T* (Recommends: psmisc) Tj T* (Conflicts: libproc-dev \() Tj (<) Tj ( 1:1.2.6-2\), pgrep \() Tj (<) Tj ( 3.3-5\), procps-nonfree, w-bassman \() Tj (<) Tj ( 1.0-3\), watch) Tj T* (Replaces: bsdutils \() Tj (<) Tj ( 2.9x-1\), watch) Tj T* (Provides: watch) Tj T* (Description: /proc file system utilities) Tj T* (  This package provides command line and full screen utilities for browsing procfs,) Tj T* (  a "pseudo" file system dynamically generated by the kernel to provide information about the status) Tj T* (  of entries in its process table \(such as whether the process is running, stopped, or a "zombie"\).) Tj T*  T* (  It contains free, kill, pkill, pgrep, pmap, ps, pwdx, skill, slabtop, snice, sysctl, tload,) Tj T* (  top, uptime, vmstat, w, and watch.) Tj T*  T* (  Homepage: http://procps.sf.net/) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R19': class PDFPageLabels 
+19 0 obj
+% Document Root
+<< /Nums [ 0
+ 20 0 R
+ 1
+ 21 0 R ] >>
+endobj
+% 'R20': class PDFPageLabel 
+20 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R21': class PDFPageLabel 
+21 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 22
+0000000000 65535 f
+0000000113 00000 n
+0000000257 00000 n
+0000000422 00000 n
+0000000597 00000 n
+0000000778 00000 n
+0000001015 00000 n
+0000001196 00000 n
+0000001355 00000 n
+0000001654 00000 n
+0000001934 00000 n
+0000002093 00000 n
+0000002316 00000 n
+0000002441 00000 n
+0000002623 00000 n
+0000002806 00000 n
+0000002958 00000 n
+0000003073 00000 n
+0000008522 00000 n
+0000010032 00000 n
+0000010138 00000 n
+0000010215 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\215\360\343<n\367\345\032\270\267't\237\243\305\307) (\215\360\343<n\367\345\032\270\267't\237\243\305\307)] 
+
+ /Info 11 0 R
+ /Root 10 0 R
+ /Size 22 >>
+startxref
+10262
+%%EOF
